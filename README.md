@@ -87,6 +87,25 @@ between flight modes.
 - [ ] Record flight data and tune the control loops
 - [ ] Experiment: how propeller pitch affects flight time and current draw
 
+
+## About this record
+
+Each week's check-in was written as a Word or PDF document and committed to
+this repository when that week's work was done. Those originals are kept
+unchanged in the repository root, and the date each was first committed is
+recorded in the Git history. The pages in [logs/](logs/) are web-readable
+copies of the same check-ins, with photos shown inline, added together on
+October 12, 2026.
+
+| Week | Original check-in | First committed |
+|---|---|---|
+| 1 | [Aerospace.docx](Aerospace.docx) | [July 25, 2026](https://github.com/vdababoon/Summer-2026-Aerospace-Project/commit/eece5b9bd0bd33fa05fc725e08e67b747e7b5394) |
+| 2 | [Week 2 Check In.docx](Week%202%20Check%20In.docx) | [September 14, 2026](https://github.com/vdababoon/Summer-2026-Aerospace-Project/commit/c3c1451d2ba54cea26af4c5ca978b064711b5c54) |
+| 3 | [Week 3 Check in … Sep 27th.docx](Week%203%20Check%20in%20of%20the%20Drone%20Project%20Sep%2027th.docx) | [September 28, 2026](https://github.com/vdababoon/Summer-2026-Aerospace-Project/commit/6087ac38b8c529db19a009cb8bca8cb3b07cb555) |
+| 4 | [Week 4 Check-in.pdf](Week%204%20Check-in.pdf) | [October 12, 2026](https://github.com/vdababoon/Summer-2026-Aerospace-Project/commit/0c9e5ee61b7fdd26ed07399e7e1eb145d80eefce) |
+
+
+
 ## Timeline
 
 | Date | Milestone | Log |
