@@ -26,11 +26,15 @@
 *Fully wired with the receiver mounted*
 
 ## Motor test video
+Setting each motor's spin direction in the SpeedyBee app, props off.
+
+https://github.com/user-attachments/assets/1cef1123-ae33-4eb0-9fb3-d06f2cf1a8d8
+
+
+
+
 
 All four motors spinning under control of the RadioMaster joystick, props off.
-
-
-
 
 
 https://github.com/user-attachments/assets/3ec13797-7e65-4c1a-946d-189287010383
