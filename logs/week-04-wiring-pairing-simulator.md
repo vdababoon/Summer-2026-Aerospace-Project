@@ -29,4 +29,8 @@
 
 All four motors spinning under control of the RadioMaster joystick, props off.
 
-<!-- On github.com: edit this file, delete this comment, and drag week04-motors-spinning-joystick.mp4 onto this spot. GitHub uploads it and plays it inline. -->
+
+
+https://github.com/user-attachments/assets/ed49bbef-dd69-43e8-8fe0-12b54608869b
+
+
