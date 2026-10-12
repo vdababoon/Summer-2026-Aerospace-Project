@@ -31,6 +31,10 @@ All four motors spinning under control of the RadioMaster joystick, props off.
 
 
 
-https://github.com/user-attachments/assets/ed49bbef-dd69-43e8-8fe0-12b54608869b
+
+
+https://github.com/user-attachments/assets/3ec13797-7e65-4c1a-946d-189287010383
+
+
 
 
